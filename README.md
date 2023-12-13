@@ -60,7 +60,7 @@ Our conjoint questionnaire consisted of 8 questions after filtering out people f
 
 ### Example figure of a random Conjoint Question
 
-[Sample Question](https://raw.githubusercontent.com/tejasphirke/Cooktops/main/Final_images/sample_conjoint_question_image.JPG){fig-align="center"}
+[Sample Question](https://raw.githubusercontent.com/tejasphirke/Cooktops/main/Final_images/sample_conjoint_question_image.JPG)
 
 # Data Analysis
 
