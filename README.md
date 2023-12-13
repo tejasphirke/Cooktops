@@ -19,7 +19,7 @@ The motivation behind our study is the proposed shift from gas to electric/Induc
 
 -   Induction Cooktop - Induction cooktops generate heat by combining electricity and the magnetic properties found in most pots and pans. Induction Cooktops were first released to the public at the Chicago "Century of Progress" World's Fair in 1933.
 
-[!Induction Video](https://www.youtube.com/watch?v=wu1Rcfonxps)
+![Induction Video](https://www.youtube.com/watch?v=wu1Rcfonxps)
 
 
 ### Product Attributes and Decision Variables
@@ -60,7 +60,7 @@ Our conjoint questionnaire consisted of 8 questions after filtering out people f
 
 ### Example figure of a random Conjoint Question
 
-![Sample Question](https://raw.githubusercontent.com/tejasphirke/Cooktops/main/Final_images/sample_conjoint_question_image.JPG)
+[Sample Question](https://raw.githubusercontent.com/tejasphirke/Cooktops/main/Final_images/sample_conjoint_question_image.JPG)
 
 # Data Analysis
 
@@ -75,3 +75,14 @@ We had 210 respondents for our survey who completed all the choice questions aft
 | Income               | Less than \$10,000, \$10,000-\$20,000, \$50,001-\$100,000, \$100,001 or more, prefer not to say                                                       |
 | Ethnicity            | Asian, African American or Black, White, Hispanic or Latino, American Indian or Alaska Native, Native Hawaiian or Pacific Islander, Prefer not to say |
 
+# Final Recommendations and Conclusions
+
+- The change in utlity or increase in willingness to pay from 3 burner to 4 burner is much higher than 4 burner to 5 burner so companies should focus more on 4 burner stoves.
+- There is a high willingness to pay for Induction Stoves compared to Gas stoves which indicates that consumers understand the benefits of Induction stove.
+- The average price difference between induction and gas stove is still pretty high and the higher WTP does not cover it so a decrease in price or subsidy of Induction stoves will be required to increase the market share of Induction stoves to over 50%.
+
+# Limitations
+
+-   If the sample size would have been larger than currently available data, analysis would have made much more sense with respect to decision making. The Power analysis we conducted showed us that we needed roughly 450 participants to validate our findings.
+-   Having region specific knowledge with respect to utilities and policies would have helped us tailor our survey in a much more granular level which will address the main problem.
+-   Having stringent guidelines on the target population of the survey respondents would have been better to receive more authentic data to analyze, for example taking the survey to people in person rather than doing it online.
