@@ -20,3 +20,58 @@ The motivation behind our study is the proposed shift from gas to electric/Induc
 -   Induction Cooktop - Induction cooktops generate heat by combining electricity and the magnetic properties found in most pots and pans. Induction Cooktops were first released to the public at the Chicago "Century of Progress" World's Fair in 1933.
 
 [!Induction Video](https://www.youtube.com/watch?v=wu1Rcfonxps)
+
+
+### Product Attributes and Decision Variables
+
+We have limited our study to easily quantifiable attributes like Type of stove, Final Cost, Number of Burners, Average Annual Usage Cost, and Indoor Air Quality to understand user preferences as these are readily available and widely understandable. Reliability of technology and Cooking Efficacy are factors that are beyond the users' control and that is why we have not considered those.
+
+| Attributes                | Type       | Value / Range                   |
+|---------------------------|------------|---------------------------------|
+| Cooktop Type              | Discrete   | Gas, Electric, Induction        |
+| Final Cost Price          | Continuous | 500, 700, 900, 1100, 1300, 1500 |
+| Average Annual Usage Cost | Continuous | 50, 60, 70, 80, 90, 100         |
+| Number of Burners         | Discrete   | 3, 4, 5                         |
+
+# Survey Design
+
+### Eligibility
+
+Our eligibility criteria was Homeowners in US. We chose homeowners because Cooktops are bought by Homeowners and we wanted to gauge the preferences of the people. We had earlier thought about restricting ouselves to the DMV region but we could not find enough survey participants so we expanded our criteria. This was in addition to the necessary requirement of being over 18 and providing consent for the survey.
+
+### Respondent information
+
+Along with the eligibility question, we were interested in obtaining information of people owning their household and how often they are cooking at home. We asked about the respondents' Year of Birth, their place of residence, and their frequency of cooking. We also collected information about gender, salary range and if they have a gas connection in their homes.
+
+### Attributes and levels for Conjoint Quesitons:
+
+Our conjoint questionnaire consisted of 8 questions after filtering out people from eligibility questions. Each question consists of 3 choices with each type of cooktop, final cost price, average annual usage cost and number of burners. After asking their preference questions, we asked for the heating efficiency and concerns of emissions from each respondent.
+
+### Educational material presented to the respondents.
+
+-   Cooktop type: Type of cooktop you prefer between gas, electric and induction.
+-   Final cost price: Total price to buy and setup the stove to get it running including taxes
+-   Average annual usage cost: Average price/yr to maintain the stove, like the price paid to gas or electricity
+-   Indoor air quality: Quality of the air in a home, school, office, or other building environment
+-   Number of burners in the cooktop: 3, 4, 5
+-   Emissions: Average amount of carbon emissions your stove will emit in a year
+-   Heating efficiency: This is time taken by the stove to reach cooking temperatures. Induction stoves take the shortest time to reach cooking temperature followed by electric and gas stoves.
+-   Induction cookware: Induction compatible cookware are required while using Induction stoves. You can tell if your cookware is suitable for induction cooking if it has a coil symbol on the base, or if a magnet clings firmly to the cookware's underside. If you test a cookware and the magnet only sticks loosely to the base, you may find the cookware does not heat as effectively.
+
+### Example figure of a random Conjoint Question
+
+[Sample Question](https://raw.githubusercontent.com/tejasphirke/Cooktops/main/Final_images/sample_conjoint_question_image.JPG){fig-align="center"}
+
+# Data Analysis
+
+## Sample Description
+
+We had 210 respondents for our survey who completed all the choice questions after filtering for consent and eligibility criteria. After that, we filtered out people who did not spend a reasonable time on the survey (those who went too fast), and we were left with 189 respondents. We further analyzed our respondents based on their demographics like age bracket, income range, and gender.
+
+| Demographic Variable | Response Options                                                                                                                                      |
+|---------------------------|---------------------------------------------|
+| Gender               | Male, Female, Trans male/trans man, Trans female/trans woman Gender queer/gender non-conforming, prefer not to say                                    |
+| Education Level      | Less than High school, High School, Bachelor Degree, Masters Degree, Vocational, Associate Degree, Prefer not to say                                  |
+| Income               | Less than \$10,000, \$10,000-\$20,000, \$50,001-\$100,000, \$100,001 or more, prefer not to say                                                       |
+| Ethnicity            | Asian, African American or Black, White, Hispanic or Latino, American Indian or Alaska Native, Native Hawaiian or Pacific Islander, Prefer not to say |
+
