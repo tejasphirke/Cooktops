@@ -1,4 +1,4 @@
-# Cooktops
+# Cooktops Analysis Based on Survey
 # Abstract
 
 Our project is to identify people's preferences for different types of stoves --Gas, Electric and Induction. The motivation behind this study is the US Government's proposed shift to transition from gas to electric/induction stoves for safety and environmental reasons.
