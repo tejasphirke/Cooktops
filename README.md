@@ -19,7 +19,7 @@ The motivation behind our study is the proposed shift from gas to electric/Induc
 
 -   Induction Cooktop - Induction cooktops generate heat by combining electricity and the magnetic properties found in most pots and pans. Induction Cooktops were first released to the public at the Chicago "Century of Progress" World's Fair in 1933.
 
-![Induction Video](https://www.youtube.com/watch?v=wu1Rcfonxps)
+[Induction Video](https://www.youtube.com/watch?v=wu1Rcfonxps)
 
 
 ### Product Attributes and Decision Variables
@@ -60,7 +60,7 @@ Our conjoint questionnaire consisted of 8 questions after filtering out people f
 
 ### Example figure of a random Conjoint Question
 
-[Sample Question](https://raw.githubusercontent.com/tejasphirke/Cooktops/main/Final_images/sample_conjoint_question_image.JPG)
+![Sample Question](https://raw.githubusercontent.com/tejasphirke/Cooktops/main/Final_images/sample_conjoint_question_image.JPG)
 
 # Data Analysis
 
